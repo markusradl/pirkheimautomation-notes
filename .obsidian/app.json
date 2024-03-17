@@ -1,0 +1,14 @@
+{
+  "promptDelete": true,
+  "trashOption": "none",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "assets",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "pages",
+  "newLinkFormat": "relative",
+  "userIgnoreFilters": [
+    "logseq",
+    "logseq/*"
+  ],
+  "alwaysUpdateLinks": true
+}
