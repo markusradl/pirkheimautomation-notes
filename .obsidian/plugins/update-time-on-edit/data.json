@@ -11,5 +11,7 @@
   ],
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
-  "fileHashMap": {}
+  "fileHashMap": {
+    "journals/2024-03-19.md": "fdb7460e5150475741876922ebe53643160534911b237ce5625fff5f02df61f1"
+  }
 }
